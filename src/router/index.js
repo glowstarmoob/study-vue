@@ -10,6 +10,18 @@ import DayFive from "@/components/DayFive.vue";
 import DaySix from "@/components/DaySix.vue";
 import DaySeven from "@/components/DaySeven.vue";
 import DayEight from "@/components/DayEight.vue";
+import DayNine from "@/components/DayNine.vue";
+import DayTen from "@/components/DayTen.vue";
+import DayEleven from "@/components/DayEleven.vue";
+import DayTwelve from "@/components/DayTwelve.vue";
+import DayThirteen from "@/components/DayThirteen.vue";
+import DayFourteen from "@/components/DayFourteen.vue";
+import DayFifteen from "@/components/DayFifteen.vue";
+import DaySixteen from "@/components/DaySixteen.vue";
+import DaySeventeen from "@/components/DaySeventeen.vue";
+import DayEighteen from "@/components/DayEighteen.vue";
+import DayNineteen from "@/components/DayNineteen.vue";
+import DayTwenty from "@/components/DayTwenty.vue";
 
 Vue.use(VueRouter)
 
@@ -71,6 +83,66 @@ const routes = [
     path: '/dayEight',
     name: 'dayEight',
     component: DayEight,
+  },
+  {
+    path: '/dayNine',
+    name: 'dayNine',
+    component: DayNine,
+  },
+  {
+    path: '/dayTen',
+    name: 'dayTen',
+    component: DayTen,
+  },
+  {
+    path: '/dayEleven',
+    name: 'dayEleven',
+    component: DayEleven,
+  },
+  {
+    path: '/dayTwelve',
+    name: 'dayTwelve',
+    component: DayTwelve,
+  },
+  {
+    path: '/dayThirteen',
+    name: 'dayThirteen',
+    component: DayThirteen,
+  },
+  {
+    path: '/dayFourteen',
+    name: 'dayFourteen',
+    component: DayFourteen,
+  },
+  {
+    path: '/dayFifteen',
+    name: 'dayFifteen',
+    component: DayFifteen,
+  },
+  {
+    path: '/daySixteen',
+    name: 'daySixteen',
+    component: DaySixteen,
+  },
+  {
+    path: '/daySeventeen',
+    name: 'daySeventeen',
+    component: DaySeventeen,
+  },
+  {
+    path: '/dayEighteen',
+    name: 'dayEighteen',
+    component: DayEighteen,
+  },
+  {
+    path: '/dayNineteen',
+    name: 'dayNineteen',
+    component: DayNineteen,
+  },
+  {
+    path: '/dayTwenty',
+    name: 'dayTwenty',
+    component: DayTwenty,
   },
 ]
 

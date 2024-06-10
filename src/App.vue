@@ -12,6 +12,18 @@
       <router-link to="/daySix">daySix</router-link> |
       <router-link to="/daySeven">daySeven</router-link> |
       <router-link to="/dayEight">dayEight</router-link> |
+      <router-link to="/dayNine">dayNine</router-link> |
+      <router-link to="/dayTen">dayTen</router-link> |
+      <router-link to="/dayEleven">dayEleven</router-link> |
+      <router-link to="/dayTwelve">dayTwelve</router-link> |
+      <router-link to="/dayThirteen">dayThirteen</router-link> |
+      <router-link to="/dayFourteen">dayFourteen</router-link> |
+      <router-link to="/dayFifteen">dayFifteen</router-link> |
+      <router-link to="/daySixteen">daySixteen</router-link> |
+      <router-link to="/daySeventeen">daySeventeen</router-link> |
+      <router-link to="/dayEighteen">dayEighteen</router-link> |
+      <router-link to="/dayNineteen">dayNineteen</router-link> |
+      <router-link to="/dayTwenty">dayTwenty</router-link> |
     </nav>
     <router-view/>
   </div>
